@@ -1,0 +1,4 @@
+rootProject.name = 'MicroKernel_Language'
+include 'Core'
+include 'FrenchLanguage'
+include 'EnglishLanguage'
